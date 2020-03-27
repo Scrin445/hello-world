@@ -1,2 +1,3 @@
 # hello-world
- repository for learning purposes
+
+Don't mind me, I'm just committing some changes.
